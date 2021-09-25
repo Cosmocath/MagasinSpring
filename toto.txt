@@ -1,0 +1,10 @@
+2021-09-24 14:41:34.233  INFO 18984 --- [main] com.example.magasin.MagasinApplication   : Starting MagasinApplication using Java 16.0.2 on M2I-LIL-HG3RR73 with PID 18984 (C:\Users\Administrateur\Desktop\Spring\magasin\target\classes started by Administrateur in C:\Users\Administrateur\Desktop\Spring\magasin)
+2021-09-24 14:41:34.236 DEBUG 18984 --- [main] com.example.magasin.MagasinApplication   : Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-09-24 14:41:34.236  INFO 18984 --- [main] com.example.magasin.MagasinApplication   : No active profile set, falling back to default profiles: default
+2021-09-24 14:41:36.526  WARN 18984 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-09-24 14:41:36.952  INFO 18984 --- [main] com.example.magasin.MagasinApplication   : Started MagasinApplication in 3.093 seconds (JVM running for 3.681)
+2021-09-24 14:43:57.534  INFO 5216 --- [main] com.example.magasin.MagasinApplication   : Starting MagasinApplication using Java 16.0.2 on M2I-LIL-HG3RR73 with PID 5216 (C:\Users\Administrateur\Desktop\Spring\magasin\target\classes started by Administrateur in C:\Users\Administrateur\Desktop\Spring\magasin)
+2021-09-24 14:43:57.536 DEBUG 5216 --- [main] com.example.magasin.MagasinApplication   : Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-09-24 14:43:57.537  INFO 5216 --- [main] com.example.magasin.MagasinApplication   : No active profile set, falling back to default profiles: default
+2021-09-24 14:43:59.447  WARN 5216 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-09-24 14:43:59.683  INFO 5216 --- [main] com.example.magasin.MagasinApplication   : Started MagasinApplication in 2.481 seconds (JVM running for 2.998)
