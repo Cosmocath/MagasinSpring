@@ -1,6 +1,7 @@
 package com.example.magasin.config;
 
 import com.example.magasin.models.Client;
+import com.example.magasin.repositories.CategorieRepository;
 import com.example.magasin.repositories.ClientRepository;
 import com.example.magasin.repositories.CommandeRepository;
 import com.example.magasin.repositories.ProduitRepository;
@@ -25,5 +26,10 @@ public class AppConfig {
     @Bean
     public ProduitService produitService(ProduitRepository repo) {
         return new ProduitServiceImpl(repo);
+    }
+
+    @Bean
+    public CategorieService CategorieService(CategorieRepository repo) {
+        return new CategorieServiceImpl(repo);
     }
 }
